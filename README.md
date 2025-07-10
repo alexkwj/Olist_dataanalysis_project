@@ -81,10 +81,13 @@ ecommerce-analysis/
 ├── .gitignore
 ├── requirements.txt
 ├── notebooks/
+│   ├── woo_jin.ipynb
+│   ├── Lim-HUN.ipynb
+│   ├── 잠재 구매, 재구매자.ipynb
+│   ├── 잠재 재구매.ipynb
+│   ├── kkh.ipynb
+│   ├── kkh2.ipynb
 │   └── analysis.ipynb
-├── src/
-│   ├── preprocessing.py
-│   └── visualization.py
 └── data/   (※ 실제 저장소에는 포함하지 않으며, .gitignore로 관리)
 ```
 
